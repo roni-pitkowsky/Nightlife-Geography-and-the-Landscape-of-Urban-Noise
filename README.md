@@ -1,5 +1,5 @@
 # Nightlife Geography and the Landscape of Urban-Noise
-###📖 [Read the Full Report Here](https://github.com/roni-pitkowsky/Nightlife-Geography-and-the-Landscape-of-Urban-Noise/blob/main/DATA%20716%2020251216%20Roni%20Pitkowsky%20Mini%20Thesis.pdf)
+### 📖 [Read the Full Report Here](https://github.com/roni-pitkowsky/Nightlife-Geography-and-the-Landscape-of-Urban-Noise/blob/main/DATA%20716%2020251216%20Roni%20Pitkowsky%20Mini%20Thesis.pdf)
 # 📌 Project Overview
 Where and when does nightlife generate noise complaints in New York City? New York City is known as the city "that never sleeps": a defining feature of its identity is its nightlife. A common issue faced both by local government and by nightlife venues such as bars, nightclubs and concert venues is noise complaints. These complaints can limit venues’ ability to play music and can frustrate nearby residents, creating a lose-lose situation. It is therefore important to determine where complaints are happening and if they can be prevented, making neighbors happy and allowing nightlife, as well as the overarching economy, to flourish.
 
