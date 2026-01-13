@@ -5,8 +5,7 @@ Where and when does nightlife generate noise complaints in New York City? New Yo
 
 Previous research shows that urban noise links to things like building density and business clusters, and complaints spike on weekends when social activity is highest. But most studies haven’t looked specifically at nightlife venues, especially not across all five NYC boroughs at the census tract level. This study fills that gap by testing whether nightlife concentration predicts noise complaint frequency. I hypothesize there is a positive association between neighborhood nightlife density and resident noise complaints.
 
-This study examined all 2,322 census tracts across New York City’s five boroughs using 2020 Census tract boundaries. Data was drawn three primary sources to examine the relationship between nightlife and noise complaints in New York City: 311 Service Requests from 2010 to Present (NYC Open Data, 2025), Current Liquor Authority Active Licenses (Open NY, 2025) and 2023 ACS 5-Year Estimates from (IPUMS NHGS; Mason et al., 2023).
-
+This study examined all 2,322 census tracts across New York City’s five boroughs using 2020 Census tract boundaries. Data was drawn three primary sources to examine the relationship between nightlife and noise complaints in New York City: 311 Service Requests from 2010 to Present, Current Liquor Authority Active Licenses and 2023 ACS 5-Year Estimates.
 
 # 📂 Datasets
 The datasets used were provided by NYC Open Data and NY Open Data.<br/>
@@ -15,11 +14,7 @@ The datasets used were provided by NYC Open Data and NY Open Data.<br/>
 🗺️ [2020 NYC Census Tracts](https://data.cityofnewyork.us/City-Government/2020-Census-Tracts/63ge-mke6/about_data)
 
 # 📈 Findings
-While neighborhoods with more nightlife do experience higher complaint levels, supporting 
-my initial hypothesis, the relationship is more nuanced than anticipated. The nonlinear pattern suggests 
-potential saturation effects, while methodological insights reveal how statistical choices shape our 
-understanding of urban phenomena. These findings point toward connect-sensitive approaches to urban 
-noise management. With nightlife zones limiting impacts on constituent complaints.
+While neighborhoods with more nightlife do experience higher complaint levels, supporting my initial hypothesis, the relationship is more nuanced than anticipated. The nonlinear pattern (figure below) suggests potential saturation effects, while methodological insights reveal how statistical choices shape our understanding of urban phenomena. These findings point toward connect-sensitive approaches to urban noise management. With nightlife zones limiting impacts on constituent complaints.
 
 <img width="3000" height="1800" alt="noise_complaints_saturation_plot" src="https://github.com/user-attachments/assets/e11acc5d-94b0-4954-a838-6d15799adaa1" />
 
